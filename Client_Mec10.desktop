@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=MEC104_bringup
+Comment=
+Exec=python3 -m cfclient.gui
+Icon=/home/bitcraze/Desktop/material/stitch.icns
+Path=/home/bitcraze/Desktop/MEC104/crazyflie-clients-python/
+Terminal=true
+StartupNotify=false

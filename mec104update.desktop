@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=MEC104Update
+Comment=Blindly updates all the project repos
+Exec=/home/bitcraze/Desktop/material/update_all_projects.sh
+Icon=
+Path=
+Terminal=true
+StartupNotify=false
